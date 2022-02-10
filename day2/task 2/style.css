@@ -1,0 +1,38 @@
+/* p ~ section {
+  color: red;
+}
+/* .test:hover{
+  color:royalblue;
+} */
+/* .test:active {
+  color: royalblue;
+} */
+
+/* div > p {
+  color: red;
+} */
+
+input:focus {
+  background-color: crimson;
+}
+/* p:first-child {
+  color: red;
+}
+p:last-child {
+  color: red;
+}*/
+
+p:nth-child(2) {
+  color: blue;
+}
+
+/* p::first-line {
+  color: burlywood;
+} */
+h1::after {
+  content: url(https://img.icons8.com/emoji/2x/-emoji-admission.png);
+}
+
+h1::before {
+  content: url(https://img.icons8.com/emoji/2x/club-suit.png);
+}

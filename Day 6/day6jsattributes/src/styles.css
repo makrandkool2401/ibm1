@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+.par {
+  color: aquamarine;
+}
+.child {
+  background-color: bisque;
+}
+.child2 {
+  color: black;
+  background-color: red;
+}

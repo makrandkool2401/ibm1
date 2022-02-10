@@ -1,0 +1,15 @@
+.box {
+  width: 400px;
+  height: 400px;
+  border: 1px solid red;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  /* align-items: center; */
+}
+
+.small-box {
+  width: 60px;
+  height: 60px;
+  border: 1px solid green;
+}
