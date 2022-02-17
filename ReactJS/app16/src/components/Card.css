@@ -1,0 +1,26 @@
+    .container{
+        background: white(64, 212, 84);
+        display: flex;
+        /* width: 600px; */
+        border: 1px solid white;
+        border-radius: 7px;
+        justify-content: space-between;
+        padding: 10px;
+    }
+    .one
+    {
+        background: white;
+        /* border-radius: 10px; */
+    }
+    .two
+    {
+
+        align-items: center;
+        /* padding: 20%; */
+        /* height: 30%; */
+        
+        color: aliceblue;
+        background-color: blue;
+        font-size: large;
+        /* border-radius: 10px; */
+    }
