@@ -1,0 +1,22 @@
+body{ margin:0 auto; }
+
+.container{
+    border:1px solid black;
+    width:450px;
+    border-radius: 7px;
+    padding: 7px;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.list-group{
+    border:1px solid black;
+    width:450px;
+    border-radius: 7px;
+    padding: 7px;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
