@@ -1,0 +1,13 @@
+.container{
+    margin-top: 10vh;
+    /* margin-left: 0%; */
+    margin-bottom: 5vh;
+    color: red;
+}
+
+.items{
+    display: grid;
+    grid-template-columns: 20vw 20vw 20vw;
+    justify-content: space-evenly;
+}
+
