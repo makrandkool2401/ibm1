@@ -1,13 +1,13 @@
-export const addEntry = (entry) => {
+export const addEntry = (item) => {
     return {
       type: "ADD_ENTRY",
-      entry: entry
+      payload: item
     };
   };
   
   export const deleteEntry = (id) => {
     return {
       type: "DELETE_ENTRY",
-      id: id
+      payload: id
     };
   };
